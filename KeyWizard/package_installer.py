@@ -40,6 +40,4 @@ def check_and_install_packages(packages):
             print("Error installing packages. Please install them manually.")
     else:
         print("All required packages are already installed.")
-
-if __name__ == "__main__":
-    check_and_install_packages(required_packages)
+        
