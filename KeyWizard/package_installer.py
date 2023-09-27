@@ -1,8 +1,4 @@
-import subprocess
-import sys
-
-
-#(Uncomment and use synax in other program)
+# (Uncomment and use synax in other program, replacing 'package0','package1','package2' with desired packages)
 
 #from package_installer import check_and_install_packages
 
@@ -15,6 +11,9 @@ import sys
 
 #if __name__ == "__main__":
 #    check_and_install_packages(required_packages)
+
+import subprocess
+import sys
 
 def check_and_install_packages(packages):
     missing_packages = []
