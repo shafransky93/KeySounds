@@ -48,4 +48,4 @@ if __name__ == "__main__":
 By running this code snippet, the script will automatically check for the specified packages and install any that are missing.
 
 ## Example Usage:
-An example of how to use the check_and_install_packages function is provided in the script itself. You can uncomment the relevant lines and customize the list of required packages to match your project's dependencies.
+An example of how to use the check_and_install_packages function is provided in the header of the package_installer.py script itself. You can uncomment the relevant lines and customize the list of required packages to match your project's dependencies.
